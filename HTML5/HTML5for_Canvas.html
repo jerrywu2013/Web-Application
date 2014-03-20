@@ -1,0 +1,46 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>HTML5 for Canvas</title>
+</head>
+
+<body>
+<h1>HTML5可透過Canvas繪製圖形</h1>
+<hr />
+<!--建立畫布-->
+<canvas id="myCanvas" width="200" height="100" style="border:1px solid #c3c3c3;">
+Your browser does not support the canvas element.
+</canvas>
+
+<script type="text/javascript">
+/*JavaScript用ID尋找元素*/
+var c=document.getElementById("myCanvas");
+/*建立Contrxt對象, 2d是內建函式*/
+var cxt=c.getContext("2d");
+/*設定顏色、大小、位置*/
+cxt.fillStyle="#FF0000";
+cxt.beginPath();
+/*從70,80開始畫15*0矩形*/
+cxt.arc(70,18,15,0,Math.PI*2,true);
+cxt.closePath();
+cxt.fill();
+</script>
+
+<h1>Canvas畫布顏色設定</h1>
+<hr />
+
+<canvas id="myCanvas1" width="200" height="100"></canvas>
+
+<script type="text/javascript">
+var c=document.getElementById("myCanvas1");
+var cxt=c.getContext("2d");
+cxt.fillStyle="#FF0000";
+cxt.fillRect(0,0,150,75);
+</script>
+<hr />
+<li><a href="http://www.w3school.com.cn/html5/html_5_canvas.asp" title="其他內容" target="_blank">HTML5 for Canvas</a>
+<li><a href="http://www.w3school.com.cn/html5/html_5_svg.asp" target="_blank">HTML5 for SVG</a>
+<li><a href="http://www.w3school.com.cn/html5/html_5_canvas_vs_svg.asp" target="_blank">HTML5 for SVG and Canvas</a>
+</body>
+</html>

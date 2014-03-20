@@ -1,0 +1,63 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style type="text/css">
+/*#div1 {width:800px;height:500px;padding:10px;border:1px solid #aaaaaa;}*/
+
+#div1, #div2
+{float:left; width:800px; height:500px; margin:10px;padding:10px;border:1px solid #aaaaaa;}
+
+
+</style>
+
+<script type="text/javascript">
+function allowDrop(ev)
+{
+<!--任何地方都可以拖放-->	
+ev.preventDefault();
+}
+<!--拖動發生事件-->
+function drag(ev)
+{
+<!--Text為類型,ev.target.id為可拖動的元素-->
+ev.dataTransfer.setData("Text",ev.target.id);
+}
+<!--拖放發生事件-->
+function drop(ev)
+{
+ev.preventDefault();
+var data=ev.dataTransfer.getData("Text");
+ev.target.appendChild(document.getElementById(data));
+}
+</script>
+
+<title>HTML5 for drag and drop</title>
+</head>
+
+<body>
+
+<h1>拖放是HTML5標準的一部份，任一元件都可以拖放</h1>
+<hr />
+
+<p>请把圖片拖放到矩型中</p>
+
+<!--<div id="div1" ondrop="drop(event)" ondragover="allowDrop(event)"></div>-->
+<br />
+<!--draggable="true"  test false 元件可以拖動-->
+<!--<img id="drag1" src="1.png" draggable="true" ondragstart="drag(event)" />-->
+
+<hr />
+
+
+<div id="div1" ondrop="drop(event)" ondragover="allowDrop(event)">
+  <img src="1.png" draggable="true" ondragstart="drag(event)" id="drag1" />
+</div>
+<div id="div2" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+
+
+<!--來回拖動程式碼
+http://www.w3school.com.cn/tiy/t.asp?f=html5_draganddrop2-->
+
+</body>
+</html>

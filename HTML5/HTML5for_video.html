@@ -1,0 +1,58 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>HTML5 for video</title>
+</head>
+
+<body>
+ <h1>Big Buck Bunny</h1>
+ <p>大雄兔（Big Buck Bunny）是Blender基金會第2部開放版權、創用CC的動畫電影，代號Peach。片長10分鐘，Big Buck Bunny全部使用開放原始碼軟體製作（如 Blender、Linux），渲染的計算機集群使用昇陽電腦公司的Sun Grid亦是開放原始碼的（如：OpenSolaris、Sun Grid Engine等），[1] [2] 製作技術和素材徹底公開。不同於上一個專案Elephants Dream，本篇全程無語音。本片完成之後，其素材適用在blender官方的遊戲專案Yo Frankie!之中，反派Frankie這次成為主角。</p>
+  <hr />
+<video width="1280" height="720" controls="controls">
+  <source src="http://download.blender.org/peach/bigbuckbunny_movies/big_buck_bunny_720p_stereo.ogg" type="video/ogg">
+</video>
+ <hr />
+ <h1>測試播放與暫停</h1>
+<!-- 多了置中指令-->
+<!-- <div style="text-align:center;">-->
+  <button onclick="playPause()">播放/暂停</button> 
+  <button onclick="makeBig()">大</button>
+  <button onclick="makeNormal()">中</button>
+  <button onclick="makeSmall()">小</button>
+  <br /> 
+  <video id="video1" width="420" style="margin-top:15px;">
+    <source src="http://download.blender.org/peach/bigbuckbunny_movies/big_buck_bunny_720p_stereo.ogg" type="video/ogg" />
+    Your browser does not support HTML5 video.
+  </video>
+</div> 
+
+<script type="text/javascript">
+var myVideo=document.getElementById("video1");
+
+function playPause()
+{ 
+if (myVideo.paused) 
+  myVideo.play(); 
+else 
+  myVideo.pause(); 
+} 
+
+function makeBig()
+{ 
+myVideo.width=560; 
+} 
+
+function makeSmall()
+{ 
+myVideo.width=320; 
+} 
+
+function makeNormal()
+{ 
+myVideo.width=420; 
+} 
+</script> 
+
+</body>
+</html>

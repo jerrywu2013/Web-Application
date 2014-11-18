@@ -17,6 +17,10 @@ Reference
 * http://www.prepbootstrap.com/
 * http://lovebootstrap.com/bootstrap-themes/free
 * http://www.codexcoder.com/html/40-free-html5-templates-responsive-download-2014/
+* http://designscrazed.org/free-responsive-html5-css3-templates/
+* http://www.zerotheme.com/
+* http://w3layouts.com/free-responsive-html5-css3-website-templates/
+* http://www.freshdesignweb.com/free-html5-css3-templates.html
 
 ====
 

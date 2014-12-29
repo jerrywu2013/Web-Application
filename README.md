@@ -29,3 +29,5 @@ Reference
 * http://www.flaticon.com/
 * https://www.iconfinder.com/free_icons
 * https://unsplash.com/
+* http://photopin.com/
+* http://www.gettyimages.com/

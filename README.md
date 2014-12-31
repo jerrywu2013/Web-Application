@@ -8,7 +8,8 @@ Reference
 
 ====
 
-* Templates for free：
+Templates for free：
+* http://templated.co/2
 * http://bootstrapzero.com/
 * http://startbootstrap.com/
 * http://www.freshdesignweb.com/free-bootstrap-templates.html
@@ -24,7 +25,7 @@ Reference
 
 ====
 
-* Picture for free：
+Picture for free：
 * http://free.com.tw/15-find-free-images/
 * http://www.flaticon.com/
 * https://www.iconfinder.com/free_icons

@@ -21,7 +21,7 @@ Templates for free：
 * http://designscrazed.org/free-responsive-html5-css3-templates/
 * http://www.zerotheme.com/
 * http://w3layouts.com/free-responsive-html5-css3-website-templates/
-* http://www.freshdesignweb.com/free-html5-css3-templates.html
+* http://shapebootstrap.net/
 
 ====
 

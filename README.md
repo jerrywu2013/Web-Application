@@ -3,8 +3,9 @@ Sublime Text 3
 * Sublime Text 3：http://www.sublimetext.com/3
 * How to set up Sublime Text 3 ：http://sublimetext3.youtag.nl/
 * Package Control：https://packagecontrol.io/installation#st3
-* Test Code「html:5」+  keyboard「tab」
+* Testing code「html:5」+  keyboard「tab」
 * BootStrap 3 Snippets：http://blog.lyhdev.com/2013/10/sublime-text-snippets-bootstrap-3-html.html
+* Testing code「bs3-template:html5」+ keyboard「tab」
 
 ====
 Reference

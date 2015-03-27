@@ -1,0 +1,8 @@
+p.k1::first-line {
+    color: #ff0000;
+    font-variant: small-caps;
+}
+p.k2::first-letter {
+    color: #ff0000;
+    font-size: xx-large;
+}

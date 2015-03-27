@@ -1,0 +1,18 @@
+/*後代選擇器(Descendant Selector)*/
+div.descendant p {
+    background-color: yellow;
+}
+/*子選擇器(Child Selector)*/
+div.child > p {
+    background-color: yellow;
+}
+/*同層相鄰選擇器(Adjacent sibling combinator)*/
+
+div.adjacent + p {
+    background-color: yellow;
+}
+
+/*同層全體選擇器(General sibling combinator)*/
+div.general ~ p {
+    background-color: yellow;
+}

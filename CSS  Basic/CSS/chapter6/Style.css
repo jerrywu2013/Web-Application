@@ -1,0 +1,11 @@
+div {
+    background-color: lightgrey;
+    width: 300px;
+    /*留白 or 填料(padding)*/
+    padding: 25px;
+    /*邊框(border)*/ 
+    border: 25px solid blue;
+    border-width: 10px;
+    /*邊界(margin)*/
+    margin: 25px;
+}

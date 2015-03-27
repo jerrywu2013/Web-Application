@@ -1,0 +1,10 @@
+h1.hidden {
+    visibility: hidden;
+    /*display: none;*/
+}
+li {
+    display: inline;
+}
+span {
+    display: block;
+}

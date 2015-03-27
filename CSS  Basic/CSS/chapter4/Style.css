@@ -1,0 +1,24 @@
+h1 {
+    text-align:center;
+    font-size: 30px;
+}
+p.date{
+	text-align:right;
+	font-size: 20px;
+}
+p.main{
+	text-indent: 10px; 
+	/*字距*/
+	text-align:justify;
+}
+p.uppercase {
+    text-transform: uppercase;
+}
+
+p.lowercase {
+    text-transform: lowercase;
+}
+
+p.capitalize {
+    text-transform: capitalize;
+}

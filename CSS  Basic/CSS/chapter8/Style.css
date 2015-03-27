@@ -1,0 +1,53 @@
+/*當使用者將網頁往下拉時，元素的位置不會改變。*/
+p.pos_fixed {
+    position: fixed;
+    top: 230px;
+    right: 250px;
+    color: red;
+}
+/*元素被放的地方將會與預設的地方有所不同。*/
+h2.pos_left {
+    position: relative;
+    left: -200px;
+}
+
+h2.pos_right {
+    position: relative;
+    left: 200px;
+}
+/*這代表元素會被放在預設的地方。*/
+h2.pos_kk {
+    position: static;
+    left: 20000000px;
+}
+/*相對定位*/
+div.pos_relative {
+    position: relative;
+    background-color:#DBF5F3;
+  	left:0px;
+  	top: 10px;
+  	width:90px;
+  	height:90px;
+
+}
+/*絕對定位*/
+div.pos_absolute {
+    position: absolute;
+    background-color:#76D7D0;
+    left: 0px;
+    /*top: 10px;*/
+    width:90px;
+  	height:90px;
+
+}
+
+div.kk{
+	background-color:#FF0084;
+	border-top-style: dotted;
+    border-right-style: solid;
+    border-bottom-style: dotted;
+    border-left-style: solid;
+    width:200px;
+  	height:200px;
+}
+

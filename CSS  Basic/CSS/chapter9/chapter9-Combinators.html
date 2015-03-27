@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>CSS Combinators</title>
+
+<link rel="stylesheet" type="text/css" href="Style.css">
+
+
+</head>
+<body>
+<h1>後代選擇器(Descendant Selector)</h1>
+<div class="descendant">
+  <p>Paragraph 1 in the div.</p>
+  <p>Paragraph 2 in the div.</p>
+  <span><p>Paragraph 3 in the div.</p></span>
+</div>
+<p>Paragraph 4. Not in a div.</p>
+<p>Paragraph 5. Not in a div.</p>
+
+<hr>
+<h1>子選擇器(Child Selector)</h1>
+
+<div class="child">
+  <p>Paragraph 1 in the div.</p>
+  <p>Paragraph 2 in the div.</p>
+  <span><p>Paragraph 3 in the div.</p></span>
+  <!-- not Child but Descendant -->
+</div>
+<p>Paragraph 4. Not in a div.</p>
+<p>Paragraph 5. Not in a div.</p>
+
+<hr>
+
+<h1>同層相鄰選擇器(Adjacent sibling combinator)</h1>
+
+<div class="adjacent">
+<p>Paragraph 1 in the div.</p>
+<p>Paragraph 2 in the div.</p>
+</div>
+<p>Paragraph 3. Not in a div.</p>
+<p>Paragraph 4. Not in a div.</p>
+
+<hr>
+<h1>同層全體選擇器(General sibling combinator)</h1>
+<div class="general">
+<p>Paragraph 1 in the div.</p>
+<p>Paragraph 2 in the div.</p>
+</div>
+
+<p>Paragraph 3. Not in a div.</p>
+<p>Paragraph 4. Not in a div.</p>
+
+</body>
+</html>

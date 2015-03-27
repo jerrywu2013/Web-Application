@@ -1,0 +1,27 @@
+/* visited link */
+body{
+	background-color: #6C6C6C;
+}
+div{
+	font-size: 100px;
+}
+/* unvisited link */
+a:link {
+    text-decoration: none;
+    color: #FF0000;
+}
+/* visited link */
+a:visited {
+    text-decoration: none;
+    color: #00FF00;
+}
+/* mouse over link */
+a:hover {
+    text-decoration: underline;
+    color: #0000FF;
+}
+/* selected link */
+a:active {
+    text-decoration: underline;
+    color: #0000FF;
+}

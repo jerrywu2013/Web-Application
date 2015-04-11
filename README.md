@@ -7,6 +7,7 @@ Sublime Text 3
 * zen coding : http://docs.emmet.io/abbreviations/syntax/
 * BootStrap 3 Snippets：http://blog.lyhdev.com/2013/10/sublime-text-snippets-bootstrap-3-html.html
 * Testing code「bs3-template:html5」+ keyboard「tab」
+* Snippet Code : https://github.com/JasonMortonNZ/bs3-sublime-plugin
 
 ====
 Reference

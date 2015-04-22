@@ -1,0 +1,25 @@
+#rcorners122 {
+    border-radius: 25px;
+    background: #8AC007;
+    padding: 20px; 
+    width: 200px;
+    height: 150px;    
+}
+
+#rcorners2 {
+    border-radius: 25px;
+    border: 2px solid #8AC007;
+    padding: 20px; 
+    width: 200px;
+    height: 150px;    
+}
+
+#rcorners3 {
+    border-radius: 25px;
+    background: url(paper.gif);
+    background-position: left top;
+    background-repeat: repeat;
+    padding: 20px; 
+    width: 200px;
+    height: 150px;    
+}

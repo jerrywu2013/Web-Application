@@ -1,14 +1,15 @@
 
 
-body{
-		background-image: url("giphy.gif");
-		/*background-image: url("penguin.jpg");*/
-}
-
 /*body{
-		background-color: #b0c4de;
+		background-image: url("giphy.gif");
+		background-image: url("penguin.jpg");
 }
 */
+
+body{
+		background-color: #b0c4de;
+}
+
 
 h1{
 	background-color: #6495ed; 

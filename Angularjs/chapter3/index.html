@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html>
+
+<body>
+<div ng-app="" ng-init="quantity=1;cost=5">
+
+<p> 總和：{{quantity * cost}}</p>
+<p> 總和：<span ng-bind="quantity * cost"></span></p>
+
+<div ng-app="" ng-init="firstName='Jerry';lastName='Wu'">
+
+<p>姓名： {{ firstName + " " + lastName }}</p>
+<p>姓名：<span ng-bind="firstName + '' + lastName"></span></p>
+
+<div ng-app="" ng-init="person={firstName:'Jerry',lastName:'Wu'}">
+<p>姓名： {{ person.lastName }}</p>
+<p>姓名：<span ng-bind="person.lastName"></span></p>
+</div>
+<hr>
+
+<div ng-app="" ng-init="points=[1,15,19,2,40]">
+<p>數值： {{ points[2] }}</p>
+<p>數值： <span ng-bind="points[3]"></span></p>
+
+
+
+</div>
+<script src= "js/angular.min.js"></script>
+</body>
+
+</html>

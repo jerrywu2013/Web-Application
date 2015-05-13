@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html>
+<script src= "js/angular.min.js"></script>
+<script src="js/namesController.js"></script>
+<body>
+<h1>Filtering Input</h1>
+
+<div ng-app="myApp" ng-controller="namesCtrl">
+
+<p>Filtering input:</p>
+
+<p><input type="text" ng-model="test"></p>
+
+<ul>
+  <li ng-repeat="x in names | filter:test | orderBy:'country'">
+    {{ (x.name | uppercase) + ', ' + x.country }}
+  </li>
+</ul>
+
+</div>
+
+
+
+
+
+
+</body>
+</html>

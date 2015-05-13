@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html>
+<script src= "js/angular.min.js"></script>
+
+
+
+<body>
+
+<div ng-app="" ng-init="mySwitch=true">
+<p>
+<button ng-disabled="mySwitch">Click Me!</button>
+</p>
+<p>
+<input type="checkbox" ng-model="mySwitch"/>Button
+</p>
+<p>
+{{ mySwitch }}
+</p>
+<hr>
+
+
+<div ng-app="">
+<p ng-show="true">I am visible.</p>
+<p ng-show="false">I am not visible.</p>
+
+<hr>
+
+<div ng-app="" ng-init="hour=15">
+<p ng-show="hour > 12">I am visible.</p>
+</div> 
+
+</div> 
+
+
+
+
+
+
+</body>
+</html>

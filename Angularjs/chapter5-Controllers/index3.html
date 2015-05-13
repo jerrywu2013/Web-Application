@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<title>Controllers In External Files</title>
+
+</head>
+<script src= "js/angular.min.js"></script>
+<body>
+
+<h1>Controllers In External Files</h1>
+
+<div ng-app="myApp" ng-controller="personCtrl">
+
+First Name: <input type="text" ng-model="firstName"><br>
+Last Name: <input type="text" ng-model="lastName"><br>
+<br>
+Full Name: {{firstName + " " + lastName}}
+
+</div>
+
+<script src="js/personController.js"></script>
+
+
+
+</body>
+</html>

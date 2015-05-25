@@ -1,3 +1,9 @@
+PHP 
+https://github.com/rippleblue/PHP
+AngularJS
+https://github.com/rippleblue/AngularJS
+
+
 Sublime Text 3
 ====
 * Sublime Text 3：http://www.sublimetext.com/3

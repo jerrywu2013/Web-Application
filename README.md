@@ -34,6 +34,7 @@ Templates for free：
 * http://www.zerotheme.com/
 * http://w3layouts.com/free-responsive-html5-css3-website-templates/
 * http://shapebootstrap.net/
+* http://webdesignbeat.com/25-responsive-twitter-bootstrap-landing-page-templates/
 
 ====
 

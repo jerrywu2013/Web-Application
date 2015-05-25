@@ -1,6 +1,6 @@
-PHP 
+* PHP 
 https://github.com/rippleblue/PHP
-AngularJS
+* AngularJS
 https://github.com/rippleblue/AngularJS
 
 

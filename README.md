@@ -35,6 +35,7 @@ Templates for free：
 * http://w3layouts.com/free-responsive-html5-css3-website-templates/
 * http://shapebootstrap.net/
 * http://webdesignbeat.com/25-responsive-twitter-bootstrap-landing-page-templates/
+* http://www.themefounders.com/twitter-bootstrap-wordpress-themes/
 
 ====
 

@@ -6,6 +6,8 @@ https://github.com/rippleblue/AngularJS
 https://www.gitbook.com/book/miumiu33/3-12-rwd-/details
 * JS
 http://framerco.de/
+* Python Jupyter
+http://jupyter.readthedocs.io/en/latest/install.html
 
 
 Sublime Text 3

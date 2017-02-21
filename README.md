@@ -4,6 +4,8 @@ https://github.com/rippleblue/PHP
 https://github.com/rippleblue/AngularJS
 * RWD
 https://kkbruce.tw/bs3
+* Bootstrap Essentials
+http://file.allitebooks.com/20150814/Bootstrap%20Essentials.pdf
 * JS
 http://framerco.de/
 * Python Jupyter

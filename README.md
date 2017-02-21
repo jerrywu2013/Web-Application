@@ -3,7 +3,7 @@ https://github.com/rippleblue/PHP
 * AngularJS
 https://github.com/rippleblue/AngularJS
 * RWD
-https://www.gitbook.com/book/miumiu33/3-12-rwd-/details
+https://kkbruce.tw/bs3
 * JS
 http://framerco.de/
 * Python Jupyter

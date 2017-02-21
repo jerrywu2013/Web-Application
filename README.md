@@ -1,3 +1,9 @@
+
+* Git
+https://desktop.github.com/
+https://git-scm.com/
+https://github.com/jerrywu2013/Bluemix/blob/master/GitHub.pdf
+
 * PHP 
 https://github.com/rippleblue/PHP
 * AngularJS

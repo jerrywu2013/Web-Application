@@ -17,6 +17,8 @@ http://file.allitebooks.com/20150814/Bootstrap%20Essentials.pdf
 http://bootstrap-live-customizer.com/
 * Bootstrap Magic
 https://pikock.github.io/bootstrap-magic/app/index.html
+* Bootstrap Build
+http://www.layoutit.com/build
 * JS
 http://framerco.de/
 * Python Jupyter

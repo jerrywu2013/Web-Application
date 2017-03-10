@@ -1,5 +1,5 @@
 
-* W3c HTML
+* W3c
 https://www.w3.org/TR/
 * Github 
 https://desktop.github.com/

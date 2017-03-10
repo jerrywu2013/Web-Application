@@ -13,6 +13,8 @@ https://github.com/rippleblue/AngularJS
 https://kkbruce.tw/bs3
 * Bootstrap Essentials (Book)
 http://file.allitebooks.com/20150814/Bootstrap%20Essentials.pdf
+* Bootstrap Live Customizer
+http://bootstrap-live-customizer.com/
 * JS
 http://framerco.de/
 * Python Jupyter

@@ -9,8 +9,6 @@ https://git-scm.com/
 https://github.com/jerrywu2013/Bluemix/blob/master/GitHub.pdf
 * PHP 
 https://github.com/rippleblue/PHP
-* CSS3
-http://animista.net/
 * AngularJS
 https://github.com/rippleblue/AngularJS
 * Bootstrap
@@ -23,6 +21,8 @@ http://bootstrap-live-customizer.com/
 https://pikock.github.io/bootstrap-magic/app/index.html
 * Bootstrap Build
 http://www.layoutit.com/build
+* CSS3
+http://animista.net/
 * JS
 http://framerco.de/
 * Python Jupyter

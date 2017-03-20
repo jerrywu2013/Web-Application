@@ -9,6 +9,8 @@ https://git-scm.com/
 https://github.com/jerrywu2013/Bluemix/blob/master/GitHub.pdf
 * PHP 
 https://github.com/rippleblue/PHP
+* CSS3
+http://animista.net/
 * AngularJS
 https://github.com/rippleblue/AngularJS
 * Bootstrap

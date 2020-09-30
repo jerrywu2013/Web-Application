@@ -67,6 +67,9 @@ Templates for free：
 * http://shapebootstrap.net/
 * http://webdesignbeat.com/25-responsive-twitter-bootstrap-landing-page-templates/
 * http://www.themefounders.com/twitter-bootstrap-wordpress-themes/
+* https://www.free-css.com/
+* https://templatemo.com/
+* https://nicepage.com/
 
 ====
 
@@ -77,3 +80,6 @@ Picture for free：
 * https://unsplash.com/
 * http://photopin.com/
 * http://www.gettyimages.com/
+* https://www.pexels.com/
+* https://pixabay.com/
+* https://stocksnap.io/

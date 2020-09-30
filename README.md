@@ -27,6 +27,8 @@ http://animista.net/
 http://framerco.de/
 * Python Jupyter
 http://jupyter.readthedocs.io/en/latest/install.html
+*django 
+https://developer.mozilla.org
 
 
 Sublime Text 3

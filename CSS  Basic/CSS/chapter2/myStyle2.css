@@ -1,4 +1,12 @@
-	body{
+	
+
+
+<html>
+<title>
+css
+</title>
+<style>
+body{
 		background-color: #FFFFFF;
 	}
 	h1{
@@ -8,3 +16,6 @@
 	p,h2{
 		font-family: "Times New Roman"; font-size: 30px; color: red;
 	}
+</style>
+<h1>css Introduction></h1>
+</html>

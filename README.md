@@ -51,7 +51,7 @@ Reference
 
 ====
 
-Templates for free：
+<b>Templates for free：</b>
 * http://templated.co/2
 * http://bootstrapzero.com/
 * http://startbootstrap.com/
@@ -70,7 +70,7 @@ Templates for free：
 
 ====
 
-Picture for free：
+<b>Picture for free：</b>
 * http://free.com.tw/15-find-free-images/
 * http://www.flaticon.com/
 * https://www.iconfinder.com/free_icons

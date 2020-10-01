@@ -29,7 +29,7 @@ http://framerco.de/
 http://jupyter.readthedocs.io/en/latest/install.html
  * HTML 5 javatpoint
  https://www.javatpoint.com/html5-tutorial
- *CSS javatpoint
+ * CSS javatpoint
  https://www.javatpoint.com/css-tutorial
 
 

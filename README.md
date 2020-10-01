@@ -30,7 +30,7 @@ http://jupyter.readthedocs.io/en/latest/install.html
 
 
 Sublime Text 3
-====
+==============
 * Sublime Text 3：http://www.sublimetext.com/3
 * How to set up Sublime Text 3 ：http://sublimetext3.youtag.nl/
 * Package Control：https://packagecontrol.io/installation#st3
@@ -40,16 +40,15 @@ Sublime Text 3
 * Testing code「bs3-template:html5」+ keyboard「tab」
 * Snippet Code : https://github.com/JasonMortonNZ/bs3-sublime-plugin
 
-====
+==============
 Reference
-====
+==============
 
 * HTML5(英文)http://www.w3schools.com/html/html5_intro.asp
 * HTML5(中文)http://www.w3school.com.cn/html5/html_5_intro.asp
 * Bootstrap http://getbootstrap.com/getting-started/
 * Bootstrap Tools http://www.awwwards.com/bootstrap-customization-themes-ui-patterns-and-tools.html
 
-====
 
 Templates for free：
 * http://templated.co/2
@@ -70,7 +69,7 @@ Templates for free：
 * https://v5.getbootstrap.com/
 * https://nicepage.com/c/technology-html-templates
 
-====
+
 
 Picture for free：
 * http://free.com.tw/15-find-free-images/

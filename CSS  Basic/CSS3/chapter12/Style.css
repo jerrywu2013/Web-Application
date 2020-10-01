@@ -3,7 +3,7 @@
     background-image: url(img_flwr.gif), url(paper.gif);
     background-position: right bottom, left top;
     background-repeat: no-repeat, repeat;
-    padding: 15px;
+    padding: 10px;
 }
 */
 
@@ -11,5 +11,6 @@ div{
     background-image: url(img_flwr.gif), url(paper.gif);
     background-position: right bottom, left top;
     background-repeat: no-repeat, repeat;
-    padding: 50px;
+    padding: 40px;
+    marggin-bottom:5px;
 }

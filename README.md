@@ -27,6 +27,10 @@ http://animista.net/
 http://framerco.de/
 * Python Jupyter
 http://jupyter.readthedocs.io/en/latest/install.html
+ * HTML 5 javatpoint
+ https://www.javatpoint.com/html5-tutorial
+ *CSS javatpoint
+ https://www.javatpoint.com/css-tutorial
 
 
 Sublime Text 3

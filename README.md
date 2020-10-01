@@ -27,6 +27,10 @@ http://animista.net/
 http://framerco.de/
 * Python Jupyter
 http://jupyter.readthedocs.io/en/latest/install.html
+* Html Cheat Sheet (important tags)
+https://www.wpkube.com/html5-cheat-sheet/
+* Some example codes for CSS3 
+https://codepen.io/collection/noEQed/?cursor=ZD0wJm89MCZwPTEmdj00
 
 
 Sublime Text 3

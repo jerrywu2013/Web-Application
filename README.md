@@ -1,13 +1,13 @@
 
-* W3c
+• W3c
 https://www.w3.org/TR/
-* Github 
+• Github 
 https://desktop.github.com/
-* Git 
+• Git 
 https://git-scm.com/
-* Github Learning 
+• Github Learning 
 https://github.com/jerrywu2013/Bluemix/blob/master/GitHub.pdf
-* PHP 
+• PHP 
 https://github.com/rippleblue/PHP
 * AngularJS
 https://github.com/rippleblue/AngularJS

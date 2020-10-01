@@ -67,6 +67,8 @@ Templates for free：
 * http://shapebootstrap.net/
 * http://webdesignbeat.com/25-responsive-twitter-bootstrap-landing-page-templates/
 * http://www.themefounders.com/twitter-bootstrap-wordpress-themes/
+* https://v5.getbootstrap.com/
+* https://nicepage.com/c/technology-html-templates
 
 ====
 
